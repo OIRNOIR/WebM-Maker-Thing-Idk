@@ -1,5 +1,3 @@
-# Important: As of 14 March 2024, WackyWebM has been discontinued due to Discord patching the use of these video files within the client. Thank you for using WackyWebM!
-
 # WackyWebM
 
 [![Weblate project translated](https://img.shields.io/weblate/progress/wackywebm?server=https%3A%2F%2Ftranslate.kiaibot.com&style=for-the-badge)](https://translate.kiaibot.com/projects/wackywebm/wackywebm)
